@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rubber-duck-store",
-    "slug": "rubber-duck-store",
+    "name": "React Native Store",
+    "slug": "React Native Store",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
