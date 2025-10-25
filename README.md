@@ -12,3 +12,5 @@ A simple React Native + Expo e-commerce demo app using:
    ```bash
    git clone https://github.com/<your-username>/react-native-store.git
    cd react-native-store
+   npm install
+   npm start
